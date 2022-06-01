@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A57AB71284750D7003CB3F7 /* Dice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A57AB70284750D7003CB3F7 /* Dice.swift */; };
 		2AD7B3E62846499A00754C65 /* I_Am_RichApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD7B3E52846499A00754C65 /* I_Am_RichApp.swift */; };
 		2AD7B3E82846499A00754C65 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD7B3E72846499A00754C65 /* ContentView.swift */; };
 		2AD7B3EA2846499C00754C65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD7B3E92846499C00754C65 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A57AB70284750D7003CB3F7 /* Dice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice.swift; sourceTree = "<group>"; };
 		2AD7B3E22846499A00754C65 /* I Am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AD7B3E52846499A00754C65 /* I_Am_RichApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_Am_RichApp.swift; sourceTree = "<group>"; };
 		2AD7B3E72846499A00754C65 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				2AD7B3F82846788400754C65 /* I-Am-Rich-Info.plist */,
 				2AD7B3F5284677D400754C65 /* fonts */,
 				2AD7B3E52846499A00754C65 /* I_Am_RichApp.swift */,
+				2A57AB70284750D7003CB3F7 /* Dice.swift */,
 				2AD7B3E72846499A00754C65 /* ContentView.swift */,
 				2AD7B3F32846758300754C65 /* AngelaCard.swift */,
 				2AD7B3F928467DD100754C65 /* InfoView.swift */,
@@ -159,6 +162,7 @@
 			files = (
 				2AD7B3FA28467DD100754C65 /* InfoView.swift in Sources */,
 				2AD7B3E82846499A00754C65 /* ContentView.swift in Sources */,
+				2A57AB71284750D7003CB3F7 /* Dice.swift in Sources */,
 				2AD7B3E62846499A00754C65 /* I_Am_RichApp.swift in Sources */,
 				2AD7B3F42846758300754C65 /* AngelaCard.swift in Sources */,
 			);
